@@ -1,7 +1,9 @@
 Name: Yoad Shiran,
 
-EX3 - Threadpool.
+Threadpool && server
 Submitted files:
-	1. threadpool.c - create lists.
+	1. server.c
+	2. threadpool.c
+	3. README
 
 Remarks : none.
