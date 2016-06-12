@@ -1,6 +1,4 @@
-// Yoad Shiran - 302978713
-
-
+// Yoad Shiran
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
